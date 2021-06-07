@@ -1,0 +1,4 @@
+include ':jwplayer-core-4.0.0'
+include ':jwplayer-common-4.0.0'
+include ':app'
+rootProject.name = "JW Player"
